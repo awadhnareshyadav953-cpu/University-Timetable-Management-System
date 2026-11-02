@@ -1,0 +1,13 @@
+
+UNIVERSITY TIME TABLE
+
+Day          9-10 AM          10-11 AM         11-12 PM
+--------------------------------------------------------
+Monday       C Programming   Physics          Maths
+Tuesday      English         Chemistry        C Programming
+Wednesday    Maths           Physics          English
+Thursday     Chemistry       C Programming    Maths
+Friday       Physics         English          Chemistry
+Saturday     Maths           C Programming    Lab
+
+Program executed successfully.
